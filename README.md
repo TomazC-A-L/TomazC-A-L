@@ -1,16 +1,22 @@
-## Hi there 👋
+### Opa, eai? Eu sou o Tomaz Corrêa 👋
 
-<!--
-**TomazC-A-L/TomazC-A-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomaz-corrêa-4676b324b/)[![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toti_assis/)
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomazC-A-L&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias uso
+
+<div>
+<div style = "display: inline_block"><br/>
+<img align="center" alt="java" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img align="center" alt="java" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="java" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div><br/>
+
+ Começando agora no mundo da tecnologia, e me apaixonando cada dia mais por ela.
+
+ ## O que faço e o que quero fazer?
+
+  Atualmente, estou no 3° período de Sistemas de informação no instituto federal de minas gerais. Tenho muito interesse em inteligências artificiais, estudo este ramo por fora da faculdade e planejo trabalhar com isso no futuro.
+
+ Também tenho interesse por cybersecurity, e estou fazendo o curso "Hackers do Bem" para me desenvolver na área.
