@@ -17,6 +17,5 @@
 
  ## O que faço e o que quero fazer?
 
-  Atualmente, estou no 3° período de Sistemas de informação no instituto federal de minas gerais. Tenho muito interesse em inteligências artificiais, estudo este ramo por fora da faculdade e planejo trabalhar com isso no futuro.
- Também tenho interesse por cybersecurity, e estou fazendo o curso "Hackers do Bem" para me desenvolver na área. Por fim, tenho vontade de ser professor de programação algum dia, e espero poder compartilhar conhecimento com mais
- pessoas.
+  Atualmente, estou no 5° período de Sistemas de informação no instituto federal de minas gerais. Tenho muito interesse em mineração e processamento de dados, e faço iniciação científica nesta área.
+ Também tenho muito interesse por IA, e estou ansioso para em breve implementar esta tecnologia na minha pesquisa de iniciação científica.
