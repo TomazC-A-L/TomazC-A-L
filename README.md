@@ -15,5 +15,5 @@
 
  ## O que faço e o que quero fazer?
 
-  Atualmente, estou no 6° período de Sistemas de informação no instituto federal de minas gerais. Participei de uma iniciação científica na area de dados e me interessei muito por este mundo!
+  Atualmente, estou no 7° período de Sistemas de informação no instituto federal de minas gerais. Participei de uma iniciação científica na area de dados e me interessei muito por este mundo!
  
